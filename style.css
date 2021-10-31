@@ -1,0 +1,21 @@
+ h1 {
+     color: black;
+     background-color: lightcoral;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ img {
+     width: 350px;
+     height: 350px;
+     border: black solid 10px;
+     border-style: double;
+ }
+ 
+ button {
+     height: 30px;
+     width: 55px;
+     border: firebrick solid 5px;
+     background-color: indianred;
+     font-weight: bolder;
+     color: black;
+ }
